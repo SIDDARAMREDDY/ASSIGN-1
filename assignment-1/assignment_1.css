@@ -1,0 +1,123 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    background-image: linear-gradient(black, gold);
+    padding: 0%;
+    margin: 0%;
+}
+
+nav {
+    color: white;
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    padding-top: 25px;
+    font-size: 25px;
+}
+
+.topbar {
+
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.topbar:hover {
+    background-color: lightcoral;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+    text-decoration: line-through;
+}
+
+h1 {
+    font-size: 35px;
+    color: aqua;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+
+#menu {
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+   
+
+}
+
+.lists {
+    text-decoration: none;
+    color: beige;
+   
+   
+}
+
+.list-tem:hover {
+    background-color: pink;
+    max-width: max-content;
+    color: black;
+}
+
+#first-section {
+    background-color: lightgrey;
+    padding: 16px;
+    height: 800px;
+    
+}
+
+#second-section {
+    background-color: lightcyan;
+    padding: 16px;
+    height: 800px;
+    
+}
+
+#third-section {
+    background-color: lightgoldenrodyellow;
+    padding: 16px;
+    height: 800px;
+    
+}
+
+#fourth-section {
+    background-color: lightsalmon;
+    padding: 16px;
+    height: 800px;
+    
+}
+
+#fifth-section {
+    background-color: lightslategray;
+    padding: 16px;
+    height: 800px;
+   
+}
+
+p {
+    background-color: black;
+    color: white;
+    width: max-content;
+    font-size: 30px;
+    margin-left: 42%;
+}
+
+.images {
+    margin-left: 35%;
+    border: 5px solid black;
+   
+    
+}
+
+
+footer {
+    height: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
